@@ -10,5 +10,5 @@ Eğitim Kaynaklarım
 
 
 
-<p>Proje Başlangıç Günüm 6.04.2025 - Gün sonu    #19 Asp.Net Core 5.0 Proje Kampı Entity Framework Repository</p>
+<p>Proje Başlangıç Günüm 6.04.2025 - Gün sonu    #21 Asp.Net Core 5.0 Proje Kampı Kategorilerin Listelenmesi</p>
 
