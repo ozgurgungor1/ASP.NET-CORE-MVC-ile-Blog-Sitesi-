@@ -12,3 +12,4 @@ Eğitim Kaynaklarım
 
 <p>Proje Başlangıç Günüm 6.04.2025 - Gün sonu    #21 Asp.Net Core 5.0 Proje Kampı Kategorilerin Listelenmesi</p>
 
+<p> 8.04.2025   #23 Asp.Net Core 5.0 Proje Kampı 23 Partial View Await Async  dakika 7 kaldığım yer</p>
