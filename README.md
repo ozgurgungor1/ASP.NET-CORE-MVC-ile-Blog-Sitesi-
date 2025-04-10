@@ -2,14 +2,6 @@
 ASP.NET CORE MVC ile Sıfırdan Blog Sitesi 
 
 Eğitim Kaynaklarım 
-<a href="https://www.youtube.com/playlist?list=PLKnjBHu2xXNNkinaVhPqPZG0ubaLN63ci"> eğitim</a>
+<a href="https://www.youtube.com/playlist?list=PLKnjBHu2xXNNkinaVhPqPZG0ubaLN63ci">Eğitim</a>
 
-
-![Loading Downloading GIF by Vera Verreschi](https://github.com/user-attachments/assets/8c5175ce-4616-4e26-97d5-47514cde6bc8)
-
-
-
-
-<p>Proje Başlangıç Günüm 6.04.2025 - Gün sonu    #21 Asp.Net Core 5.0 Proje Kampı Kategorilerin Listelenmesi</p>
-
-<p> 8.04.2025   #23 Asp.Net Core 5.0 Proje Kampı 23 Partial View Await Async  dakika 7 kaldığım yer</p>
+<a href="https://drive.google.com/drive/folders/1kKdkaaF2EBHZDrUVEtKp5cQxdiX0nW6b?usp=drive_link">Proje</a>
